@@ -1,7 +1,8 @@
-# DLSpVO
-Code for A Deep-Learning–Embedded Sparse Variational Optimization Method for Hyperspectral and Multispectral Image Fusion
-Directly run: Demo.py
-If you use this code, please cite:
+# A Deep-Learning–Embedded Sparse Variational Optimization Method for Hyperspectral and Multispectral Image Fusion
+# How to use?
+- Directly run: ``Demo.py`` 
+# Citation
+```bibtex
 @ARTICLE{11616707,
   author={Zhang, Wei and Liu, Liu and Xu, Ting and Deng, Liang-Jian},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -11,3 +12,4 @@ If you use this code, please cite:
   number={},
   pages={24622-24633},
   doi={10.1109/JSTARS.2026.3715799}}
+```
